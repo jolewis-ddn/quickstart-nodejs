@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/jolewis-ddn/quickstart-nodejs/tree/master.svg?style=svg&circle-token=cfcf617dad74100b6dbb3a84078ed4ea760f6c78)](https://circleci.com/gh/jolewis-ddn/quickstart-nodejs/tree/master)
+
 # quickstart-nodejs
 
 Node.js sample application for Screwdriver
